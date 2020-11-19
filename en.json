@@ -1,0 +1,19 @@
+{
+	"metadata": {
+		"schemaVersion": 1,
+		"app": "zeno-travel-setup-webapp"
+	},
+	"messages": [
+		{
+			"note": "https://static-cse.canva.com/blob/138631/best-free-stock-photos.37fb0f5b.jpg",
+			"id": "app.title",
+			"description": "Primary title of the App, displayed in App Bar",
+			"defaultMessage": "Booking Setup WebApp"
+		},
+		{
+			"note": "http://www.ikozmik.com/Content/Images/uploaded/its-free-featured.jpg",
+			"id": "discard.itinerary",
+			"defaultMessage": "Discard Itinerary"
+		}
+	]
+}
